@@ -13,6 +13,7 @@ httpx
 # Excel generation
 openpyxl
 
+
 # Configuration
 pydantic
 python-dotenv
